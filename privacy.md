@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 Effective date: July 01, 2020
 Block n Break ("us", "we", or "our") operates the Block n Break mobile application (the "Service").
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Block n Break is based on the Free Privacy Policy Template Website.
